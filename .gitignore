@@ -1,0 +1,15 @@
+obj
+bin
+deploy
+deploy/*
+output
+output/*
+*TeamCity.user
+_ReSharper.*
+*ReSharper.user
+*.resharper.user
+*.resharper
+*.csproj.user
+*.suo
+*.cache
+~$*
