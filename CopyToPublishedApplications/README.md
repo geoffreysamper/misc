@@ -31,21 +31,20 @@ Usage
 >\sampleproject\output\WindowsFormsApplication2.exe
 >\sampleproject\output\WindowsFormsApplication2.exe.config
 >\sampleproject\output\WindowsFormsApplication2.pdb
->\sampleproject\output\_PublishedApplications
->\sampleproject\output\_PublishedApplications\ClassLibrary1
->\sampleproject\output\_PublishedApplications\WindowsFormsApplication1
->\sampleproject\output\_PublishedApplications\WindowsFormsApplication2
->\sampleproject\output\_PublishedApplications\ClassLibrary1\ClassLibrary1.dll
->\sampleproject\output\_PublishedApplications\ClassLibrary1\ClassLibrary1.pdb
->\sampleproject\output\_PublishedApplications\WindowsFormsApplication1\ClassLibrary1.dll
->\sampleproject\output\_PublishedApplications\WindowsFormsApplication1\ClassLibrary1.pdb
->\sampleproject\output\_PublishedApplications\WindowsFormsApplication1\WindowsFormsApplication1.exe
->\sampleproject\output\_PublishedApplications\WindowsFormsApplication1\WindowsFormsApplication1.exe.config
->\sampleproject\output\_PublishedApplications\WindowsFormsApplication1\WindowsFormsApplication1.pdb
->\sampleproject\output\_PublishedApplications\WindowsFormsApplication2\WindowsFormsApplication2.exe
->\sampleproject\output\_PublishedApplications\WindowsFormsApplication2\WindowsFormsApplication2.exe.config
->\sampleproject\output\_PublishedApplications\WindowsFormsApplication2\WindowsFormsApplication2.pdb
-
+>\sampleproject\output\**_PublishedApplications**
+>\sampleproject\output\**_PublishedApplications**\ClassLibrary1
+>\sampleproject\output\**_PublishedApplications**\WindowsFormsApplication1
+>\sampleproject\output\**_PublishedApplications**\WindowsFormsApplication2
+>\sampleproject\output\**_PublishedApplications**\ClassLibrary1\ClassLibrary1.dll
+>\sampleproject\output\**_PublishedApplications**\ClassLibrary1\ClassLibrary1.pdb
+>\sampleproject\output\**_PublishedApplications**\WindowsFormsApplication1\ClassLibrary1.dll
+>\sampleproject\output\**_PublishedApplications**\WindowsFormsApplication1\ClassLibrary1.pdb
+>\sampleproject\output\**_PublishedApplications**\WindowsFormsApplication1\WindowsFormsApplication1.exe
+>\sampleproject\output\**_PublishedApplications**\WindowsFormsApplication1\WindowsFormsApplication1.exe.config
+>\sampleproject\output\**_PublishedApplications**\WindowsFormsApplication1\WindowsFormsApplication1.pdb
+>\sampleproject\output\**_PublishedApplications**\WindowsFormsApplication2\WindowsFormsApplication2.exe
+>\sampleproject\output\**_PublishedApplications**\WindowsFormsApplication2\WindowsFormsApplication2.exe.config
+>\sampleproject\output\**_PublishedApplications**\WindowsFormsApplication2\WindowsFormsApplication2.pdb
 
 
 Cengiz Han / @hancengiz
