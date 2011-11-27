@@ -9,20 +9,20 @@ By using this msbuild file you don't have to deal with seperation of files based
 
 ##Usage
 
-###You just need to add below import line at the bottom of the project file and execute msbuild.exe with the /p:CopyToPublishedApplications=true parameter.
+- You just need to add below import line at the bottom of the project file and execute msbuild.exe with the /p:CopyToPublishedApplications=true parameter.
 
 >&lt;Import Project="..\..\CopyToPublishedApplications.msbuild" /&gt;
 
-###Add CopyToPublishedApplications parameter to msbuild command line. default value of CopyToPublishedApplications is false.
+- Add CopyToPublishedApplications parameter to msbuild command line. default value of CopyToPublishedApplications is false.
 
 >msbuild yoursolutionfile.sln /p:OutputPath=C:\yourcioutputfolder /p:CopyToPublishedApplications=true
 
 Cengiz Han / @hancengiz
 -----------------------
 
-###After you addd import line in your projects and run your build with msbuild command line tool as it's shown above you will get an output like below:
+- After you addd import line in your projects and run your build with msbuild command line tool as it's shown above you will get an output like below:
 
->you can find this sample project structure in sampleproject folder. check out the import lines in each .csproj file, and just run build.bat file.
+- You can find this sample project structure in sampleproject folder. check out the import lines in each .csproj file, and just run build.bat file.
 
 >\sampleproject>dir output /s /b
 >\sampleproject\output\ClassLibrary1.dll
