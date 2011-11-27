@@ -7,8 +7,8 @@ It creates _PublishedApplications\yourappname folder in your output directory.
 
 By using this msbuild file you don't have to deal with seperation of files based on projects when you are building solutions with multiple projects.
 
-##Usage
-
+Usage
+-----------------------
 - You just need to add below import line at the bottom of the project file and execute msbuild.exe with the /p:CopyToPublishedApplications=true parameter.
 
 >&lt;Import Project="..\..\CopyToPublishedApplications.msbuild" /&gt;
