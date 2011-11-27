@@ -22,28 +22,51 @@ Usage
 
 - You can find this sample project structure in sampleproject folder. check out the import lines in each .csproj file, and just run build.bat file.
 
->\sampleproject>dir output /s /b
+
+>dir output /s /b
+
 >\sampleproject\output\ClassLibrary1.dll
+
 >\sampleproject\output\ClassLibrary1.pdb
+
 >\sampleproject\output\WindowsFormsApplication1.exe
+
 >\sampleproject\output\WindowsFormsApplication1.exe.config
+
 >\sampleproject\output\WindowsFormsApplication1.pdb
+
 >\sampleproject\output\WindowsFormsApplication2.exe
+
 >\sampleproject\output\WindowsFormsApplication2.exe.config
+
 >\sampleproject\output\WindowsFormsApplication2.pdb
+
 >\sampleproject\output\ _ PublishedApplications
+
 >\sampleproject\output\ _ PublishedApplications\ClassLibrary1
+
 >\sampleproject\output\ _ PublishedApplications\WindowsFormsApplication1
+
 >\sampleproject\output\ _ PublishedApplications\WindowsFormsApplication2
+
 >\sampleproject\output\ _ PublishedApplications\ClassLibrary1\ClassLibrary1.dll
+
 >\sampleproject\output\ _ PublishedApplications\ClassLibrary1\ClassLibrary1.pdb
+
 >\sampleproject\output\ _ PublishedApplications\WindowsFormsApplication1\ClassLibrary1.dll
+
 >\sampleproject\output\ _ PublishedApplications\WindowsFormsApplication1\ClassLibrary1.pdb
+
 >\sampleproject\output\ _ PublishedApplications\WindowsFormsApplication1\WindowsFormsApplication1.exe
+
 >\sampleproject\output\ _ PublishedApplications\WindowsFormsApplication1\WindowsFormsApplication1.exe.config
+
 >\sampleproject\output\ _ PublishedApplications\WindowsFormsApplication1\WindowsFormsApplication1.pdb
+
 >\sampleproject\output\ _ PublishedApplications\WindowsFormsApplication2\WindowsFormsApplication2.exe
+
 >\sampleproject\output\ _ PublishedApplications\WindowsFormsApplication2\WindowsFormsApplication2.exe.config
+
 >\sampleproject\output\ _ PublishedApplications\WindowsFormsApplication2\WindowsFormsApplication2.pdb
 
 
