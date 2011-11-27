@@ -17,6 +17,7 @@ Usage
 
 >msbuild yoursolutionfile.sln /p:OutputPath=C:\yourcioutputfolder /p:CopyToPublishedApplications=true
 
+-----------------------
 - After you addd import line in your projects and run your build with msbuild command line tool as it's shown above you will get an output like below:
 
 - You can find this sample project structure in sampleproject folder. check out the import lines in each .csproj file, and just run build.bat file.
