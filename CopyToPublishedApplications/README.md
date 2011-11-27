@@ -31,7 +31,7 @@ Usage
     \sampleproject\output\WindowsFormsApplication2.exe
     \sampleproject\output\WindowsFormsApplication2.exe.config
     \sampleproject\output\WindowsFormsApplication2.pdb
-    \sampleproject\output\_PublishedApplications
+    \sampleproject\output\\_PublishedApplications
     \sampleproject\output\_PublishedApplications\ClassLibrary1
     \sampleproject\output\_PublishedApplications\WindowsFormsApplication1
     \sampleproject\output\_PublishedApplications\WindowsFormsApplication2
