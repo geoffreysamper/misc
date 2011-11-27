@@ -11,7 +11,7 @@ By using this msbuild file you don't have to deal with seperation of files based
 
 ###You just need to add below import line at the bottom of the project file and execute msbuild.exe with the /p:CopyToPublishedApplications=true parameter.
 
->'<Import Project="..\..\CopyToPublishedApplications.msbuild" />'
+>&lt;Import Project="..\..\CopyToPublishedApplications.msbuild" /&gt;
 
 ###Add CopyToPublishedApplications parameter to msbuild command line. default value of CopyToPublishedApplications is false.
 
